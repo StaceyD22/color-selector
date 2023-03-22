@@ -1,0 +1,11 @@
+.color-block {
+    border: 0.5 rem;
+    border-color: black;
+    align-items: center;
+    text-align: center;
+}
+
+.color-block:hover {
+    box-shadow: 0.5 rem;
+    cursor: pointer;
+}
